@@ -1,7 +1,7 @@
 require 'pry'
 
 def using_include(array, element)
-  using_include.include?(wow)
+  array.include?(wow)
 end
 
 def using_sort(array)
